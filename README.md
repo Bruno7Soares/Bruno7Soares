@@ -1,4 +1,4 @@
-## Oi eu sou o Bruno7Sores 👋
+## Oi eu sou o Bruno7Soares 👋
 
 
 - 🔭 Trabalho na área de logística
