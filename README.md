@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho na área de logística
-- 🌱 Sou estudante iniciante de desenvolvimento web, atualmente estou estudando pela plataforma do curso em video
+- 🌱 Sou estudante iniciante Dev, SIEM
 - 📫 Instagram @bdsoares
 - 😄 Pronouns: ele/dele
 - ⚡ Sou resiliente
